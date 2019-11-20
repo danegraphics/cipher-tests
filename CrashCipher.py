@@ -1,5 +1,6 @@
 #Crash Cipher
-#much more secure!
+# This is a cipher that uses a combination of substitutions and 
+# additions modulo to both create a random keystream and encrypt the plaintext
 import random
 
 message = raw_input("Message: ")
