@@ -6,6 +6,8 @@
 //  Copyright © 2016 Steven Mortensen. All rights reserved.
 //
 
+//  This is a cipher that uses a deck of cards as a random number generator in order to produce a secure keystream.
+
 import Cocoa
 
 var alphabet = "_ABCDEFGHIJKLMNOPQRSTUVWXYZ"
